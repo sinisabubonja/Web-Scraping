@@ -3,7 +3,7 @@ Web scraping, selenium, beautiful soup\
 \
 \
 \
-Run following commands in your terminal to run this python application:\
+Run following commands in your terminal to run this python scripts:\
 \
 git clone https://github.com/sinisabubonja/Web-Scraping.git \
 python3 -m venv Web-Scraping\
